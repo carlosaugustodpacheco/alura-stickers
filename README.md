@@ -42,9 +42,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Postman
 
 ### ✨ Autor
-
 <a href="https://github.com/carlosaugustodpacheco">
- <img style="border-radius: 50%;" src="https://media-exp2.licdn.com/dms/image/C5103AQG2RHl-Cs5Ucw/profile-displayphoto-shrink_200_200/0/1516856017781?e=1660176000&v=beta&t=EVlFE30IcDr9-Iv1aYoDQ2lOxLA9BQwnI-euVJtGyiI" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/68930974/181088945-0a13c969-27ee-46b0-86ee-123d7dea7a89.png" width="150px;" alt=""/>
  <br />
  <sub><b>Carlos Augusto Duru Pacheco</b></sub></a> <a href="https://github.com/carlosaugustodpacheco" title="Rocketseat">🚀</a>
  
