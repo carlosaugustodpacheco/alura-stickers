@@ -32,6 +32,21 @@ Acesse a pasta src do projeto dentro do editor e edite a String de saída das fi
 #### Execução
 Execute o App.java, as figurinhas serão criadas automaticamente dentro da pasta saida na pasta raíz do repositório. 
 
+#### Populando e consultando o banco de dados de imagens
+Com o Postman é possivel popular e consultar o banco de dados MonboDB disponibilizado no Heroku.
+
+Para consulta:
+GET > https://carlos-alura-linguagens-api.herokuapp.com/linguagens
+
+Para popular:
+POST > https://carlos-alura-linguagens-api.herokuapp.com/linguagens
+Com parametros no "Body" como exemplo abaixo:
+{
+        "title": "Python",
+        "image": "https://images.pling.com/img/00/00/08/01/07/1107980/66411-1.png",
+        "ranking": 5
+    }
+    
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
