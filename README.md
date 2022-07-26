@@ -24,11 +24,13 @@ O repositório [alura-linguagens-api](https://github.com/carlosaugustodpacheco/a
 ### 🎲 Rodando a aplicação
 
 #### Clone este repositório
-$ git clone <https://github.com/carlosaugustodpacheco/maratona-explorer1>
+$ git clone <https://github.com/carlosaugustodpacheco/alura-stickers>
 
-#### Acesse a pasta src do projeto dentro do editor e edite a String de saída das figurinha ( campo 34)
+#### Acesso
+Acesse a pasta src do projeto dentro do editor e edite a String de saída das figurinha ( campo 34)
 
-#### Execute o App.java, as figurihas serão criadas automaticamente dentro da pasta saida na pasta raíz do repositório. 
+#### Execução
+Execute o App.java, as figurinhas serão criadas automaticamente dentro da pasta saida na pasta raíz do repositório. 
 
 ### 🛠 Tecnologias
 
