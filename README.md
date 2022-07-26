@@ -36,16 +36,21 @@ Execute o App.java, as figurinhas serão criadas automaticamente dentro da pasta
 Com o Postman é possivel popular e consultar o banco de dados MonboDB disponibilizado no Heroku.
 
 Para consulta:
+```
 GET > https://carlos-alura-linguagens-api.herokuapp.com/linguagens
-
+```
 Para popular:
+```
 POST > https://carlos-alura-linguagens-api.herokuapp.com/linguagens
+```
 Com parametros no "Body" como exemplo abaixo:
+```
 {
         "title": "Python",
         "image": "https://images.pling.com/img/00/00/08/01/07/1107980/66411-1.png",
         "ranking": 5
     }
+```
     
 ### 🛠 Tecnologias
 
